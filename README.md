@@ -1,5 +1,7 @@
 # OnePlus 9 Pro Storage Fix Guide
 
+[一加 9 Pro 存储清理指南（中文）](https://github.com/lingwsh/OnePlus-9-Pro-Storage-Fix-Guide/blob/main/README_CN.md)
+
 **Recover 20–50+ GB from the mysterious "Other" storage on your OnePlus 9 Pro**
 
 ## The Problem
