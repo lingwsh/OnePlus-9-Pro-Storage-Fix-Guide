@@ -4,6 +4,9 @@
 
 **Recover 20–50+ GB from the mysterious "Other" storage on your OnePlus 9 Pro**
 
+> [!WARNING]
+> **Backup your phone data before proceeding.** Some commands in this guide (and any AI coding assistant such as Claude) may delete personal files and clean storage. Always back up your photos, contacts, WhatsApp chats, and other important data before running any commands.
+
 ## The Problem
 
 OnePlus 9 Pro (LE2123) running OxygenOS 14 accumulates massive "Other" storage (30–50+ GB) that cannot be cleared through normal means. This is a **known, unfixed bug** affecting the OnePlus 9 series. OnePlus has never released a fix, and OOS 14 is the final major version for this device.
